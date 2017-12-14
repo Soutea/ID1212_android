@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Generator</string>
+    <string name="dice_roll_result">You rolled %d</string>
+    <string name="roll_again">Roll Again</string>
+</resources>
